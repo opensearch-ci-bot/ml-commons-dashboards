@@ -15,6 +15,3 @@ Compatible with OpenSearch and OpenSearch Dashboards version 3.8.0
 * Update opensearch-build workflow references from commit SHA to main branch ([#495](https://github.com/opensearch-project/ml-commons-dashboards/pull/495))
 * Onboard new backport-pr reusable GitHub workflow ([#501](https://github.com/opensearch-project/ml-commons-dashboards/pull/501))
 
-### Documentation
-
-* Update MAINTAINERS.md to reflect emeritus status for Tianyu Gao ([#493](https://github.com/opensearch-project/ml-commons-dashboards/pull/493))
